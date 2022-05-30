@@ -1,4 +1,4 @@
-Empty IG
+Test IG
 ---
 This is an empty IG
 <br> </br>
