@@ -1,9 +1,9 @@
-﻿XXYourComputableMyIGNameHere : Validation Results
+﻿FoodAllergyIG : Validation Results
 =========================================
 
 err = 1, warn = 0, info = 0
 IG Publisher Version: 1.1.121
-Generated Mon May 30 12:20:46 UTC 2022. FHIR version 4.0.1 for xxexample.fhir.uv.myig#0.1.0-test (canonical = http://xxsomewhere.org/fhir/myig)
+Generated Mon May 30 12:27:00 UTC 2022. FHIR version 4.0.1 for xxexample.fhir.uv.myig#0.1.0-test (canonical = http://xxsomewhere.org/fhir/myig)
  Build Errors : 0 / 0 / 0
  /github/workspace/input/myig : 1 / 0 / 1
 </table>
